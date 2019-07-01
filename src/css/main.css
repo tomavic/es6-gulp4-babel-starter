@@ -1,0 +1,31 @@
+body {
+    background: brown;
+    color: beige;
+    text-align: center;
+    margin-top: 200px;
+  }
+  .main-header {
+    padding: 20px 20px 0 20px;
+    font-family: cursive;
+  }
+  p {
+    padding: 0 20px 0 20px;
+    font-family: sans-serif;
+  }
+  .wiki-desc {
+    font-style: italic;
+    text-decoration: underline;
+  }
+  .question {
+    margin: 30px 30px;
+  }
+  button {
+    padding: 15px;
+    background: brown;
+    color: beige;
+    border: 2px solid;
+    cursor: pointer;
+    font-size: 1em;
+    margin-left: 15px;
+    outline: 0;
+  }
